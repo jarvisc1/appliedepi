@@ -1,7 +1,6 @@
 Binding: start_project
 Title: Applied Epi Project
 OpenFiles: INDEX
-Icon: inst/extdata/Applied_Epi_Hex_Small.png
 
 Parameter: check
 Widget: CheckboxInput
