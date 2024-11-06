@@ -1,6 +1,7 @@
 Binding: start_project
-Title: Appled Epi Project
+Title: Applied Epi Project
 OpenFiles: INDEX
+icon: inst/extdata/Applied_Epi_Hex_Small.png
 
 Parameter: check
 Widget: CheckboxInput
@@ -26,3 +27,4 @@ Widget: FileInput
 Label: File Input
 Default: ~/
 Position: right
+
