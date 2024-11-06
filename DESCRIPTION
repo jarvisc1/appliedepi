@@ -1,0 +1,11 @@
+Package: appliedepi
+Title: Applied Epi example projecy template
+Author: Chris Jarvis
+Maintainer: Chris Jarvis <Chris.Jarvis@appliedepi.org>
+Version: 0.0.1
+Description: Sitrep R project template
+Depends: R (>= 3.3.2)
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
